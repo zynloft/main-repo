@@ -22,8 +22,8 @@ export default function AboutSection() {
             About Zenloft
           </h2>
           <p className="text-lg text-gray-300 mb-6">
-           {` We're a team of experienced Shopify developers who specialize in transforming Figma designs into powerful, high-performing online stores.
-            Whether you need a custom theme, app integrations, or advanced storefront functionality — we bring your vision to life with precision and creativity.`}
+           We`&apos;re a team of experienced Shopify developers who specialize in transforming Figma designs into powerful, high-performing online stores.
+            Whether you need a custom theme, app integrations, or advanced storefront functionality — we bring your vision to life with precision and creativity.
           </p>
 
           <div className="grid gap-4 mt-8">
