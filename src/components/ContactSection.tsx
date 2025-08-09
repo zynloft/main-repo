@@ -12,7 +12,7 @@ export default function ContactSection() {
           transition={{ duration: 0.6 }}
           className="text-4xl sm:text-5xl font-bold text-cyan-400 mb-8"
         >
-          Let`&apos;s Work Together
+          Lets Work Together
         </motion.h2>
 
         <motion.p
