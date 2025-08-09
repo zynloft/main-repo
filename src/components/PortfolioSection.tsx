@@ -11,6 +11,7 @@ const projects = [
     link: "https://podcastmonkey.co/",
     image: "/podcastmonkey.png",
   },
+  
   {
     title: "Appa Life",
     description: "AppaLife offers caffeine-free, mushroom-based energy shots for natural, jitter-free focus and vitality.",
@@ -18,10 +19,34 @@ const projects = [
     image: "/appa-life.png",
   },
   {
-    title: "Blow Gas",
-    description: "Blow Gas Co sells a variety of hemp products, including THCA flowers, vapes, and edibles.",
-    link: "https://blowgas.com/",
-    image: "/blow-gas.png",
+    title: " King Rilla",
+    description: "Organic men’s grooming—soaps, shampoos, deodorants, balms.",
+    link: "https://www.kingrilla.com",
+    image: "/king-rella.png",
+  },
+   {
+    title: "Elite honey",
+    description: "Natural energy honey packets with caffeine, amino acids, and nootropics for clean, crash-free focus.",
+    link: "https://elitehoneysupplements.com/",
+    image: "/elite-honey.png",
+  },
+  // {
+  //   title: "Blow Gas",
+  //   description: "Blow Gas Co sells a variety of hemp products, including THCA flowers, vapes, and edibles.",
+  //   link: "https://blowgas.com/",
+  //   image: "/blow-gas.png",
+  // },
+    {
+    title: "Wellmedr",
+    description: "Doctor-supervised online treatments for hair, hormones, weight.",
+    link: "https://www.wellmedr.com",
+    image: "/wellmedr.png",
+  },
+    {
+    title: "Drink Miils",
+    description: "​MIILS offers space-inspired meal shakes with 19g protein, 3g sugar, and crispy inclusions.",
+    link: "https://www.drinkmiils.com/",
+    image: "/drinkmills2.png",
   },
   {
     title: "Lammar Marie",
@@ -29,30 +54,31 @@ const projects = [
     link: "https://lammarmarie.com/",
     image: "/lammarmarie.png",
   },
-  {
-    title: "Clean Pets",
-    description: "Clean Pets offers natural wellness chews for pets, supporting gut health, joints, skin, and more.",
-    link: "https://shopcleanpets.com/",
-    image: "/clean-pets.png",
-  },
+  // {
+  //   title: "Clean Pets",
+  //   description: "Clean Pets offers natural wellness chews for pets, supporting gut health, joints, skin, and more.",
+  //   link: "https://shopcleanpets.com/",
+  //   image: "/clean-pets.png",
+  // },
   {
     title: "Kick It",
     description: "Kickit offers a fun and easy-to-play soccer tennis game, perfect for all ages and skill levels.",
     link: "https://kickit.net/",
     image: "/kick-it.png",
   },
-  {
-    title: "Native Ceuticals",
-    description: "PureSkin Organic offers natural, organic skincare products for rejuvenation and nourishment.",
-    link: "https://pureskinorganic.com/",
-    image: "/pureskinorganic.png",
+   {
+    title: "All Virgin Hair",
+    description: "Premium virgin hair extensions and wigs.",
+    link: "https://allvirginhair.com/",
+    image: "/All-Virgin-Hair.png",
   },
-  {
-    title: "Drink Miils",
-    description: "​MIILS offers space-inspired meal shakes with 19g protein, 3g sugar, and crispy inclusions.",
-    link: "https://www.drinkmiils.com/",
-    image: "/miils.png",
-  },
+  // {
+  //   title: "Native Ceuticals",
+  //   description: "PureSkin Organic offers natural, organic skincare products for rejuvenation and nourishment.",
+  //   link: "https://pureskinorganic.com/",
+  //   image: "/pureskinorganic.png",
+  // },
+
   {
     title: "Doctor Skin Collagen",
     description: "Doctor Skin Collagen offers collagen-boosting skincare for youthful, radiant skin.",
@@ -79,6 +105,7 @@ const moreProjects = [
   { name: "PurPet", link: "https://purpetco.com/" },
   { name: "Health Vape", link: "https://healthvape.com/" },
   { name: "Leefy Organics", link: "https://leefyorganics.com/" },
+  { name: "Raan Cotton", link: "https://raan.com/" },
 ];
 
 export default function PortfolioSection() {
