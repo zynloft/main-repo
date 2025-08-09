@@ -2,7 +2,7 @@
 
 import {
   FaLinkedin,
-  FaGithub,
+  // FaGithub,
   FaTwitter,
   FaInstagram,
   FaWhatsapp,
